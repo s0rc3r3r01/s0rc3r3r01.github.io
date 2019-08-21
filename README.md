@@ -25,9 +25,9 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+# My blog
 
-I've been blogging for many years, my blog is available [here](https://federicofr.wordpress.com/) 
+I've been blogging for many years, my technical blog is available [here](https://federicofr.wordpress.com/) 
 
 ### Reach out to me:
 [LinkedIn Profile](https://www.linkedin.com/in/federico-fregosi/)
