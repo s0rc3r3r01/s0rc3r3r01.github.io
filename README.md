@@ -1,6 +1,7 @@
-
-
-
+        
+       
+            
+                
 Hello ! I'm a DevOps/Site Reliability Engineer Lead with a strong interest in distributed, highly-scalable and cloud-based systems architecture. 
 
 Worked for years in SysOps roles, focused on infrastructure management and Cloud on the 3 major public cloud providers, recently focused on AWS & GCP. 
