@@ -11,7 +11,7 @@ Managed production-grade, Kubernetes clusters, with tens of microservices and wr
 
 Regular speaker at conferences and meetups. 
 
-### Reach out to me:
+### Reach out to me
 More info about me are available here:
 [LinkedIn Profile](https://www.linkedin.com/in/federico-fregosi/)
 
