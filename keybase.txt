@@ -1,0 +1,75 @@
+=================================================================
+https://keybase.io/federicofregosi
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://fregosi.dev
+  * I am federicofregosi (https://keybase.io/federicofregosi) on keybase.
+  * I have a public key with fingerprint 7C72 300A 4A8B 2D94 D648  C1A5 3089 024C A797 CEC3
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012013b2c66c5dafd0cf6a21e977a9b3ca310616e5829c804493def27b5d784415f30a",
+      "fingerprint": "7c72300a4a8b2d94d648c1a53089024ca797cec3",
+      "host": "keybase.io",
+      "key_id": "3089024ca797cec3",
+      "kid": "01015ae51750d0edab5a0d9132bfadfb82ea19173442813e3877e53560b680462d040a",
+      "uid": "ee296e8ccce3125ddeb79da3e2637f19",
+      "username": "federicofregosi"
+    },
+    "service": {
+      "hostname": "fregosi.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1566383095,
+  "expire_in": 157680000,
+  "prev": "555505b7eb1cfab3ba63e006c2e5182c300a36aceccb2c16897a5bb0b6535a9b",
+  "seqno": 26,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMN3AnicbVJ7UFRVGF8WZGJFaCDKUpi8vVDWnft+bKiJGRUPU1HLhPXce8/ChWV3
+2QewMDCT20wLBlmimCQmGphBQplms1NJLxUEtGZKh8WogYGBJHRCQh6dS/Ff558z
+53y/7/f9vt/3fbskWKMLwiu0qU21Xd8EdVyod2syM5fdLcVEm+zBjKVYHpy/oEWG
+TpcpT5ExI4YTJE5QIimxrMTIwCzjkpkFJAEFjgOCSEmAInCWYCHDk4LE4zQtUDI0
+k5zIyBxP0wRjpnCA6TGzYs2GDrtDsboQLSdxJIXjgAa8SMoCLbM0LxGAoXBewEla
+ApzASVCiUGKOzalmIHEicEKDYkN/6GGal/c/+AXdOMEAyBAcg8s4lIHIAFwWCIoU
+zUA2izwJASEQHEXTJE9QkOI5DjIUw+Iii7pgSRmn53W75+kgJAUW8pIkQYogGVmG
+IifIgIIkS3FmQlCBTuiwgnyI0GYoQ4ci2cwOmG1zKliZHkPBQkWCqr9qQwvAfwEG
+GRYiBrvD5rJJNgsK5LhcdqdRTXR57CqyCIqm/zhMomKVkZsooxA6nIrNihkJhJRc
+ikpKMCxL8RQuMHoMFtsVBzQpKoLhUGPoqHVQOSPGoIMzIgdFQjIDkRIBS0EcZyUS
+2caTkjofigXIVgnNn2B5gQOMKCKDkE9o9pjaVYHVhhlJFukE2YjTqWRbgcvtgFhZ
++4VdIZognSZ0kVZdM40u7P6F5QvXR86J/tVP7pMTb8adj+uNGEp8kF4x8lLd7HJQ
+4l136fR2t+Z2ybPdmTU+3bltaSEnfRF1mnb8sD9r2LwuvymvcDYQVdCZdMQ7PXm4
+bPTj6bG5sura2Qj+hVvrKwyrDCkdyenPJ1/85X3feGbsZ4PvGRofzo89KifsvwSq
++wZ8E7s9VcEbV9Rry23x0Xsut6/viIhu8CzK8lCzbX8FKs/GrlrNlF7mPm+pHmg7
+inm7/Vj9eFBQ0p+pp36/+u6mY2/NfIKXf7pb232weUVcZcOPP+14wHOgfDbunZSa
+iYaZtduo1y/Oue+YAldLS8YsfZgvJzBx975zm9Ovrex8wrAsbc2Xlk2hqY9vGekP
+ifp62HoldU9ccGfV9ykl/Qcnw4Z+dV8Pjg8UffdYm6d/cUzWFNwartNHn3ktsY6O
+qYBZN6aa69Jaj1jz/9ixN69yMiXEl9xw42akGPtV4O3NysacNaamnhefu5dR420q
+6vVf38ldKUwZe1X4MOpUQu4xbUK1prZ1e+/T7BvdLd6k0aT088V3BiNjh5eO6E48
+lf4z+cEra89yh6a+ODSz9ITlmb36JZMf+c9oq4oae8IiTz+0Mv7v/XZva8HJ5Vtr
+TC+Hvjl6fGBocc8P9Ni1fdrxweZbxx8J3Wnq6Mo2ttIHLLnVjT2/dXfd2xATf7uo
+OLeFz8iwbvFPCbsG+3LDh6YrH837BwQvw40=
+=Q5vA
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/federicofregosi
+
+==================================================================
