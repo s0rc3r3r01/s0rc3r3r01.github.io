@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to My Website
 
 You can use the [editor on GitHub](https://github.com/s0rc3r3r01/s0rc3r3r01.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -30,8 +30,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/s0rc3r3r01/s0rc3r3r01.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I've been blogging for many years, my blog is available [here] (https://federicofr.wordpress.com/) 
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Reach out to me:
+https://www.linkedin.com/in/federico-fregosi/
