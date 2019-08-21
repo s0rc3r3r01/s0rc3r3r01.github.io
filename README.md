@@ -33,4 +33,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 I've been blogging for many years, my blog is available [here] (https://federicofr.wordpress.com/) 
 
 ### Reach out to me:
-https://www.linkedin.com/in/federico-fregosi/
+(https://www.linkedin.com/in/federico-fregosi/)
