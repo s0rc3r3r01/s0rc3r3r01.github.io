@@ -1,7 +1,7 @@
 
 
 
-Hello ! I'm aDevOps/Site Reliability Engineer Lead with a strong interest in distributed, highly-scalable and cloud-based systems architecture. 
+Hello ! I'm a DevOps/Site Reliability Engineer Lead with a strong interest in distributed, highly-scalable and cloud-based systems architecture. 
 
 Worked for years in SysOps roles, focused on infrastructure management and Cloud on the 3 major public cloud providers, recently focused on AWS & GCP. 
 
@@ -10,9 +10,9 @@ Managed production-grade, Kubernetes clusters, with tens of microservices and wr
 
 Regular speaker at conferences and meetups. 
 
-## Reach out to me:
+### Reach out to me:
 More info about me are available here:
 [LinkedIn Profile](https://www.linkedin.com/in/federico-fregosi/)
 
-## My blog
+### My blog
 I've been blogging for many years, my technical blog is available [here](https://federicofr.wordpress.com/) 
