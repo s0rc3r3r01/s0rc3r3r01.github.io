@@ -15,5 +15,4 @@ More info about me are available here:
 [LinkedIn Profile](https://www.linkedin.com/in/federico-fregosi/)
 
 ## My blog
-
 I've been blogging for many years, my technical blog is available [here](https://federicofr.wordpress.com/) 
