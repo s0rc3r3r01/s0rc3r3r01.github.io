@@ -17,3 +17,7 @@ More info about me are available here:
 
 ### My blog
 I've been blogging for many years, my technical blog is available [here](https://federicofr.wordpress.com/) 
+
+
+### Keybase
+I use [Keybase](https://keybase.io/federicofregosi)
