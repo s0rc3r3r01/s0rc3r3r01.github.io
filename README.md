@@ -19,5 +19,11 @@ More info about me are available here:
 I've been blogging for many years, my technical blog is available [here](https://federicofr.wordpress.com/) 
 
 
+
+
+
+
+
 ### Keybase
-I use [Keybase](https://keybase.io/federicofregosi)
+I use ![Keybase Logo](https://keybase.io/favicon.ico "Keybase Logo")
+ [Keybase](https://keybase.io/federicofregosi)
